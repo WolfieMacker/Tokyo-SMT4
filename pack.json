@@ -1,0 +1,9 @@
+{
+  "name": "Tokyo SMT IV",
+  "description": "Soundtrack from the video game Shin Megami Tensei IV, source: https://www.youtube.com/watch?v=x2gdZ0WaoDY.",
+  "author": "WolfieMacker",
+  "version": "v{MAJOR}",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+}
